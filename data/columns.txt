@@ -7,4 +7,5 @@ l_[X/H]: Limit of [X/H] measurement; '=' is normal, '<' is upper limit, and 'x' 
 [X/H]: Measurement of [X/H] (normalized to Asplund+2009 solar scale)
 e_[X/H]: Error (+/-) in the [X/H] measurement; if l_[X/H] == '<' or 'x' then there is no e_[X/H]
 Instrument: Instrument(s) used to obtain spectra/measure abundance
-Ref: Reference(s) code number for each source (see code maps in README in main directory)
+Ref: Reference(s) code number (see Reference Codes in README in main directory or below)
+
