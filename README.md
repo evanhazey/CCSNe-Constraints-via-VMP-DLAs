@@ -5,77 +5,78 @@ Data used in the VMP DLA Paper (arxiv:2108.00659}
 
 *_full.fits contains all measurements for a given system (only available here)
 
-Reference Codes
-{'Lu et al. (1996)':'1',
+## Reference Codes ##
 
-'Prochaska & Wolfe (1997a)':'2',
+1: Lu et al. (1996)
 
-'Prochaska & Wolfe (1999)':'3',
+2: Prochaska & Wolfe (1997a)
 
-'Molaro et al. (2000)':'4',
+3: Prochaska & Wolfe (1999)
 
-'Prochaska & Wolfe (2000)':'5',
+4: Molaro et al. (2000)
 
-'Dessauges-Zavadsky et al. (2001)':'6',
+5: Prochaska & Wolfe (2000)
 
-'Molaro et al. (2001)':'7',
+6: Dessauges-Zavadsky et al. (2001)
 
-'Prochaska et al. (2001)':'8',
+7: Molaro et al. (2001)
 
-'Prochaska et al. (2001a)':'9',
+8: Prochaska et al. (2001)
 
-'Prochaska et al. (2002a)':'10',
+9: Prochaska et al. (2001a)
 
-'Dessauges-Zavadsky et al. (2003)':'11',
+10: Prochaska et al. (2002a)
 
-'Ledoux et al. (2003)':'12',
+11: Dessauges-Zavadsky et al. (2003)
 
-'Prochaska et al. (2003c)':'13',
+12: Ledoux et al. (2003)
 
-'Prochaska et al. (2003a)':'14',
+13: Prochaska et al. (2003c)
 
-"O'Meara et al. (2006)":'15',
+14: Prochaska et al. (2003a)
 
-'Noterdaeme et al. (2007)':'16',
+15: O'Meara et al. (2006)
 
-'Prochaska et al. (2007)':'17',
+16: Noterdaeme et al. (2007)
 
-'Noterdaeme et al. (2008)':'18',
+17: Prochaska et al. (2007)
 
-'Petitjean, Ledoux & Srianand (2008)':'19',
+18: Noterdaeme et al. (2008)
 
-'Pettini et al. (2008)':'20',
+19: Petitjean, Ledoux & Srianand (2008)
 
-'Ellison et al. (2010)':'21',
+20: Pettini et al. (2008)
 
-'Penprase et al. (2010)':'22',
+21: Ellison et al. (2010)
 
-'Srianand et al. (2010)':'23',
+22: Penprase et al. (2010)
 
-'Balashev et al. (2011)':'24',
+23: Srianand et al. (2010)
 
-'Cooke et al. (2011)':'25',
+24: Balashev et al. (2011)
 
-'Cooke et al. (2011b)':'26',
+25: Cooke et al. (2011)
 
-'Cooke et al. (2012)':'27',
+26: Cooke et al. (2011b)
 
-'Cooke et al. (2014)':'28',
+27: Cooke et al. (2012)
 
-'Dutta et al. (2014)':'29',
+28: Cooke et al. (2014)
 
-'Zafar et al. (2014d)':'30',
+29: Dutta et al. (2014)
 
-'Cooke et al. (2015)':'31',
+30: Zafar et al. (2014d)
 
-'Cooke et al. (2016)':'32',
+31: Cooke et al. (2015)
 
-'Morrison et al. (2016)':'33',
+32: Cooke et al. (2016)
 
-'Cooke et al. (2017)':'34',
+33: Morrison et al. (2016)
 
-"D'Ordorico et al. (2018)":'35',
+34: Cooke et al. (2017)
 
-'Welsh et al. (2019)': '36',
+35: D'Ordorico et al. (2018)
 
-'Welsh et al. (2020)':'37'}
+36: Welsh et al. (2019)
+
+37: Welsh et al. (2020)
