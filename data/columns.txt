@@ -6,3 +6,5 @@ e_logNH: Logarithmic error in the measurement of log(NH)
 l_[X/H]: Limit of [X/H] measurement; '=' is normal, '<' is upper limit, and 'x' means there is no measurement 
 [X/H]: Measurement of [X/H] (normalized to Asplund+2009 solar scale)
 e_[X/H]: Error (+/-) in the [X/H] measurement; if l_[X/H] == '<' or 'x' then there is no e_[X/H]
+Instrument: Instrument(s) used to obtain spectra/measure abundance
+Ref: Reference(s) code number for each source (see code maps in README in main directory)
