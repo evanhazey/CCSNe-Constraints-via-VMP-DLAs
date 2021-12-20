@@ -1,9 +1,33 @@
 # CCSNe-Constraints-via-VMP-DLAs
 Data used in the VMP DLA Paper (arxiv:2108.00659}
 
-*_analysis.fits contains only the abundance measurements used in our analysis (i.e., no duplicates). Will be available in the journal (accepted December 2021).
+*_full.fits: Contains all measurements for a given system. Will not be hosted through the journal (i.e., only available here)
 
-*_full.fits contains all measurements for a given system (only available here)
+*_analysis.fits: Contains only the abundance measurements used in our analysis (i.e., no duplicates). Will be available in the journal (accepted December 2021).
+
+
+## FITS Columns ##
+
+**QSO**: Name of the quasar that the DLA is pointed towards. The numbers refer to the right ascension and declination of the quasar (and hence, the DLA)
+
+**QSOFullName**: SIMBAD/NED compatible name of quasar
+
+**z_abs**: Redshift of the DLA
+
+**logNH**: Log base 10 of the hydrogen column density (# atoms/square centimeter)
+
+**e_logNH**: Logarithmic error in the measurement of log(NH)
+
+**l_[X/H]**: Limit of [X/H] measurement; '=' is normal, '<' is upper limit, and 'x' means there is no measurement 
+
+**[X/H]**: Measurement of [X/H] (normalized to Asplund+2009 solar scale)
+
+**e_[X/H]**: Error (+/-) in the [X/H] measurement; if l_[X/H] == '<' or 'x' then there is no e_[X/H]
+
+**Instrument**: Instrument(s) used to obtain spectra/measure abundance
+
+**Ref**: Reference(s) code number (see 'Reference Codes' below)
+
 
 ## Reference Codes ##
 
